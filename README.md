@@ -39,6 +39,7 @@ node client/send_order.js 10
 ```
 
 At the point of time, you should ideally see something like this in your console/s:
+<img width="939" alt="Screenshot 2022-09-03 at 6 28 46 PM" src="https://user-images.githubusercontent.com/6575313/188271622-5e9b0856-628d-48e1-997f-b437942ca31d.png">
 
 ### Overview
 
@@ -55,6 +56,7 @@ These entities have access to certain methods / functions as mentioned below:
    - show orders ( specific to client )
 2. Exchange
    - handle incoming orders
+
 3. Orderbook
    - handle incoming orders
    - Show complete order history
